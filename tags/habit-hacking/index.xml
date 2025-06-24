@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Habit Hacking on tickjoy</title>
+    <link>https://tickjoy.com/tags/habit-hacking/</link>
+    <description>Recent content in Habit Hacking on tickjoy</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 12:30:00 -0500</lastBuildDate>
+    <atom:link href="https://tickjoy.com/tags/habit-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tiny List That Changed Everything</title>
+      <link>https://tickjoy.com/journal/tiny-list/</link>
+      <pubDate>Tue, 24 Jun 2025 12:30:00 -0500</pubDate>
+      <guid>https://tickjoy.com/journal/tiny-list/</guid>
+      <description>Discover the power of a single, focused daily list—and how it can reset your productivity with surprising ease.</description>
+    </item>
+  </channel>
+</rss>
